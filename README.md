@@ -1,2 +1,2 @@
 # synopsis
-synopsis from various books and tutorials
+synopsis from various books and tutorials divided by different topics.
